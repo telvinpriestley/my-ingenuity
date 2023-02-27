@@ -1,0 +1,174 @@
+.container-fluid1 {
+    background-image: url(https://www.paypalobjects.com/webstatic/en_GB/mktg/wright/home/homepage-hero-1x.jpg);
+    background-size: cover;
+}
+
+.t1 {
+    font-size: 2.5rem;
+    line-height: 3rem;
+    font-weight: 300;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.t2 {
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+    font-family: PayPalSansBig-Light, Helvetica Neue, Arial, sans-serif;
+    font-weight: 400;
+    padding-top: 10px;
+}
+
+.t3 {
+    font-size: 2.5rem;
+    line-height: 3rem;
+    font-family: PayPalSansBig-Light, Helvetica Neue, Arial, sans-serif;
+    font-weight: 400;
+}
+
+.list {
+    border-bottom: 1px solid #cbd2d6;
+
+
+}
+
+.list1 {
+    text-decoration: none;
+    color: #0070ba;
+    border-bottom: 2px solid #0070ba;
+    background-color: #f5f7fa;
+    padding: 0 10px 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.list2 {
+    border: none;
+    background-color: #f5f7fa;
+
+}
+
+.container-fluid2 {
+    background-color: #f5f7fa;
+}
+
+p.circle {
+    border: 1px solid silver;
+    border-radius: 50%;
+    float: left;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+text.left {
+    text-align: left;
+    font-size: 0.891rem;
+}
+
+.butt {
+    border-radius: 25px;
+
+}
+
+.container-fluid3 {
+    background-color: #009cde;
+    background-image: radial-gradient(circle farthest-side at center bottom, #009cde, #003087 125%);
+    color: #fff;
+}
+
+.link1 {
+    text-decoration: none;
+    color: white;
+}
+
+.cimg {
+    padding-left: 80px;
+}
+
+.t6 {
+    font-size: 1.25rem;
+}
+
+.t5 {
+
+    font-family: PayPalSansBig-Light, Helvetica Neue, Arial, sans-serif;
+    font-weight: 1;
+}
+
+.butt1 {
+    border-radius: 25px;
+    width: 80px;
+}
+
+.ta1 {
+    font-size: 2.5rem;
+    line-height: 5rem;
+    font-family: PayPalSansBig-Light, Helvetica Neue, Arial, sans-serif;
+    font-weight: 1;
+}
+
+.country-selector {
+    background-image: url("https://www.paypalobjects.com/webstatic/mktg/icons/sprite_countries_flag4.png");
+    display: inline-block;
+    overflow: hidden;
+    width: 32px;
+    height: 26px;
+    padding: 0;
+    margin: 0;
+    vertical-align: middle;
+    text-indent: 999em;
+    text-align: left;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: 5px -34px;
+}
+
+.footer-main {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    padding-inline-start: 40px;
+
+}
+
+.footer-main a {
+    color: #2c2e2f;
+
+}
+
+.global-footer {
+    box-sizing: inherit;
+    color: #2c2e2f;
+}
+
+.global-footer ul li {
+    display: inline-block;
+}
+
+.global-footer .footer-main li,
+.footer-secondary li,
+.footer-tertiary li {
+    margin: 6px 18px 0 0;
+
+}
+
+.global-footer .footer-secondary a,
+.footer-secondary a,
+.footer-tertiary a,
+.footer-tertiary a {
+    color: #687173;
+
+}
+
+.global-footer ul li a {
+    text-decoration: none;
+}
+
+.global-footer .footer-notes {
+    font-size: 13px;
+    font-size: .8125rem;
+    color: #687173;
+    line-height: 1.6;
+}
